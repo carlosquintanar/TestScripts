@@ -1,3 +1,5 @@
 Useful scripts
 
 - top5ps.ps1--  list top 5 Windows processes 
+- listusers.ps1-- general powershell script to list specific attributes for user. 
+                  script takes an argument, which is a username  
